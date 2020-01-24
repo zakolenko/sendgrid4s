@@ -1,8 +1,0 @@
-This is the API documentation for the [[https://zakolenko.github.io/sendgrid4s/ sendgrid4s]] library.
-
-SendGrid Scala Client
-
-Links:
-
-- [[https://zakolenko.github.io/sendgrid4s/ Homepage]]
-- [[https://github.com/zakolenko/sendgrid4s GitHub repository]]
